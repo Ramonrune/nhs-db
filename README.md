@@ -28,7 +28,7 @@ Todo o desenvolvimento do sistema se voltou para agregar valor aos processos e i
 Os resultados foram dois aplicativos publicados na Google Play e um sistema computadorizado, sendo que os três estão em fase de testes na África do Sul.
 Conclui-se que o sistema poderá auxiliar muito no ambiente da saúde, facilitando a gestão, fornecendo processos inteligentes e uma maior agilidade no atendimento, permitindo com que pacientes possuam acesso a seus dados de saúde, e com que funcionários de saúde possuam uma maior facilidade e uma maior quantidade de dados relevantes para análise durante os atendimentos.
 ```
-<br>
+
 ## Banco de dados (SQL SERVER)
 
 ![alt text](https://github.com/Ramonrune/nhs-db/blob/master/db.png)
