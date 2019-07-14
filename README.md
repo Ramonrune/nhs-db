@@ -38,7 +38,6 @@ Conclui-se que o sistema poderá auxiliar muito no ambiente da saúde, facilitan
 ![alt text](https://github.com/Ramonrune/nhs-db/blob/master/db-sqlite.png)
 
 ## Dicionario de dados
-<p><a name="_Toc530233661"></a>3.5.2 Dicion&aacute;rio de Dados</p>
 <p>O Dicion&aacute;rio de Dados (DD) consiste em uma lista organizada de todos os elementos de dados que s&atilde;o pertinentes para o sistema. As tabelas devem conter os seguintes campos:</p>
 <p><strong>Entidade:</strong>&nbsp;&eacute; o nome da entidade que foi definida no MER. A entidade &eacute; uma pessoa, objeto ou lugar que ser&aacute; considerada como objeto pelo qual temos interesse em guardar informa&ccedil;&otilde;es a seu respeito.</p>
 <p><strong>Atributo:</strong>&nbsp;Os atributos s&atilde;o as caracter&iacute;sticas da entidade cliente que desejamos guardar.</p>
