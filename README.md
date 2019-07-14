@@ -13,11 +13,10 @@ LEONARDO MARTINS DE OLIVEIRA
 NATÁLIA AKINA UESUGI
 Orientador: Prof. Dr. Kleber de Oliveira Andrade
 Área de concentração: Engenharia de Software
-```
-```
+
 Americana, SP
 2018
-```
+
 
 Este trabalho se trata de uma plataforma de saúde digital unificada, que permite melhor gestão de informações de saúde e processos inteligentes. 
 A plataforma visa auxiliar o dia a dia das instituições de saúde e pacientes, buscando diminuir a quantidade de erros na área médica através de uma coleção consistente de dados do paciente, possibilitando que o sistema atue em qualquer instituição de saúde, e que tenha uma melhor eficiência e eficácia em atendimentos, sejam estes comuns ou de urgência e emergência.
@@ -28,9 +27,9 @@ Diversos requisitos foram coletados de forma dinâmica com as equipes sul africa
 Todo o desenvolvimento do sistema se voltou para agregar valor aos processos e interfaces de usuário (se focando em facilidade de uso e experiencia de usuário).
 Os resultados foram dois aplicativos publicados na Google Play e um sistema computadorizado, sendo que os três estão em fase de testes na África do Sul.
 Conclui-se que o sistema poderá auxiliar muito no ambiente da saúde, facilitando a gestão, fornecendo processos inteligentes e uma maior agilidade no atendimento, permitindo com que pacientes possuam acesso a seus dados de saúde, e com que funcionários de saúde possuam uma maior facilidade e uma maior quantidade de dados relevantes para análise durante os atendimentos.
-
+```
 <br>
-Database for NHS product.
+Banco de dados para o sistema NHS.
 
 ![alt text](https://github.com/Ramonrune/nhs-db/blob/master/db.png)
 
