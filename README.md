@@ -29,11 +29,10 @@ Os resultados foram dois aplicativos publicados na Google Play e um sistema comp
 Conclui-se que o sistema poderá auxiliar muito no ambiente da saúde, facilitando a gestão, fornecendo processos inteligentes e uma maior agilidade no atendimento, permitindo com que pacientes possuam acesso a seus dados de saúde, e com que funcionários de saúde possuam uma maior facilidade e uma maior quantidade de dados relevantes para análise durante os atendimentos.
 ```
 <br>
-Banco de dados para o sistema NHS.
-
+## Banco de dados (SQL SERVER)
 ![alt text](https://github.com/Ramonrune/nhs-db/blob/master/db.png)
 
-<br>
+## Sqlite
 
 ![alt text](https://github.com/Ramonrune/nhs-db/blob/master/db-sqlite.png)
 
